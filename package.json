@@ -1,0 +1,24 @@
+{
+  "name": "escape-game",
+  "version": "1.0.0",
+  "description": "I3C-Projekt",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosti97/EscapeGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rosti97/EscapeGame/issues"
+  },
+  "homepage": "https://github.com/Rosti97/EscapeGame#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
